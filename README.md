@@ -1,4 +1,4 @@
-# Status Indicator Sign
+# Status Indicator
 ## For Machines, Tools, Equipment, and Other Things
 
 This is a visual device intended to show the current status of shared tools and equipment in a makerspace or hackerspace. It could also be used in other spaces where showing the status of something might be useful: a commercial kitchen, a warehouse, a laboratory, or a school.
